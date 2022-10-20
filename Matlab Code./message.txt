@@ -1,0 +1,4 @@
+Encoding and decoding using a LSB.
+This is our mini-project.Tejasram
+ and Soham are the delimiters.%
+ 
